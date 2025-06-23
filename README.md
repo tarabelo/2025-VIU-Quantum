@@ -29,6 +29,7 @@ Programa (tentativo):
   - [Puertas cuánticas de 1 cúbit](https://colab.research.google.com/github/tarabelo/2025-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#1cubit)
   - [Puertas controladas: CNOT](https://colab.research.google.com/github/tarabelo/2025-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#cnot)
   - [Otras puertas](https://colab.research.google.com/github/tarabelo/2025-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#otras)
+  - [Uso de un computador real de IBM](https://colab.research.google.com/github/tarabelo/2025-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#IBM)
 
 **Jueves 19/6/25 17:30-20:00**
 
